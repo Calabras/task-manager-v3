@@ -44,7 +44,7 @@ nvm install 22
 nvm use 22
 
 #Создайте и скачайте мой репозиторий
-git clone https://github.com/your-username/task-manager-v2.git
+git clone https://github.com/Calabras/task-manager-v3
 cd task-manager-v2
 
 #Запустите сервер
